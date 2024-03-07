@@ -1,14 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dryou-homepage</title>
+    <title>Profiles on Dryou-homepage</title>
     <link>https://jinwooyoon.github.io/test-server.github.io/</link>
-    <description>Recent content on Dryou-homepage</description>
+    <description>Recent content in Profiles on Dryou-homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://jinwooyoon.github.io/test-server.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023년 1월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-2/</link>
+      <pubDate>Fri, 27 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-2/</guid>
+      <description>Tuta et oras femina unda pennisque vicina Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim mea conveniunt cessit; mihi.</description>
+    </item>
+    
+    <item>
+      <title>2022년 10월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-3/</link>
+      <pubDate>Thu, 26 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-3/</guid>
+      <description>개요 2022년 10월 25~26일에 걸쳐 (가나다순) 김선지, 김수빈, 박이주, 신서정, 신재현, 엄수정, 여인정, 이용재, 이현주, 전규리, 정성재, 조재형, 차여진 13인을 대상으로 인터뷰를 실시.</description>
+    </item>
+    
+    <item>
+      <title>2022년 04월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-4/</link>
+      <pubDate>Wed, 25 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-4/</guid>
+      <description>Tuta et oras femina unda pennisque vicina Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim mea conveniunt cessit; mihi.</description>
+    </item>
+    
+    <item>
+      <title>Using Docker for Jekyll and Blog Development</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-5/</link>
+      <pubDate>Tue, 24 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy-5/</guid>
+      <description>Tuta et oras femina unda pennisque vicina Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim mea conveniunt cessit; mihi.</description>
+    </item>
+    
+    <item>
+      <title>Publication in 2022: The Evolution of Evidence-Based Medicine</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy/</link>
+      <pubDate>Mon, 23 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii-copy/</guid>
+      <description>Tuta et oras femina unda pennisque vicina Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim mea conveniunt cessit; mihi.</description>
+    </item>
+    
+    <item>
+      <title>2022년 01월 연구원 인터뷰 보고서</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii/</link>
+      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/post/henara-colii/</guid>
+      <description>개요 2023년 1월, 김선지, 김수빈, 김승일, 박이주, 신서정, 신재현, 엄수정, 여인정, 이현주, 전규리, 조재형, 차여진 총 12인을 대상으로 서면 인터뷰를 진행하였다.</description>
+    </item>
     
     <item>
       <title>Search Result</title>
@@ -20,12 +74,32 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://jinwooyoon.github.io/test-server.github.io/contact/</link>
+      <title></title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jinwooyoon.github.io/test-server.github.io/contact/</guid>
+      <guid>https://jinwooyoon.github.io/test-server.github.io/photos/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/about/</guid>
+      <description>子曰: &amp;ldquo;學而時習之, 不亦說乎(학이시습지, 불역열호)&amp;quot;
+Goal of Education Train a globally competent medical data scientists.
+ 저희 연구실의 교육 목표는 국제적으로 경쟁력있는 데이터 사이언티스트를 키우는 것입니다.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/publications/</guid>
+      <description>List of the featured published papers in peer-reviewed journals Dr. You&amp;rsquo;s research group members are in bold. First authors among Dr.</description>
     </item>
     
     <item>
@@ -35,6 +109,15 @@
       
       <guid>https://jinwooyoon.github.io/test-server.github.io/elements/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.</description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/research/</guid>
+      <description>test</description>
     </item>
     
     <item>
