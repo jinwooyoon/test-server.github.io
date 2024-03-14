@@ -5,10 +5,19 @@
     <link>https://jinwooyoon.github.io/test-server.github.io/</link>
     <description>Recent content in Profiles on Dryou-homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 10:15:00 +0530</lastBuildDate>
     
 	<atom:link href="https://jinwooyoon.github.io/test-server.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>profiles</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/profiles/</link>
+      <pubDate>Wed, 13 Mar 2024 10:15:00 +0530</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/profiles/</guid>
+      <description>test</description>
+    </item>
     
     <item>
       <title>2023년 1월 연구원 인터뷰 보고서</title>
@@ -83,23 +92,23 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://jinwooyoon.github.io/test-server.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jinwooyoon.github.io/test-server.github.io/about/</guid>
-      <description>子曰: &amp;ldquo;學而時習之, 不亦說乎(학이시습지, 불역열호)&amp;quot;
-Goal of Education Train a globally competent medical data scientists.
- 저희 연구실의 교육 목표는 국제적으로 경쟁력있는 데이터 사이언티스트를 키우는 것입니다.</description>
-    </item>
-    
-    <item>
       <title>about</title>
       <link>https://jinwooyoon.github.io/test-server.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jinwooyoon.github.io/test-server.github.io/publications/</guid>
       <description>List of the featured published papers in peer-reviewed journals Dr. You&amp;rsquo;s research group members are in bold. First authors among Dr.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/education/</guid>
+      <description>子曰: &amp;ldquo;學而時習之, 不亦說乎(학이시습지, 불역열호)&amp;quot;
+Goal of Education Train a globally competent medical data scientists.
+ 저희 연구실의 교육 목표는 국제적으로 경쟁력있는 데이터 사이언티스트를 키우는 것입니다.</description>
     </item>
     
     <item>
@@ -136,15 +145,6 @@ Goal of Education Train a globally competent medical data scientists.
       
       <guid>https://jinwooyoon.github.io/test-server.github.io/privacy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
-    </item>
-    
-    <item>
-      <title>Profiles</title>
-      <link>https://jinwooyoon.github.io/test-server.github.io/profiles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jinwooyoon.github.io/test-server.github.io/profiles/</guid>
-      <description>A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis.</description>
     </item>
     
     <item>
