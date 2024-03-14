@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>profiles</title>
+      <title>Profiles</title>
       <link>https://jinwooyoon.github.io/test-server.github.io/profiles/</link>
       <pubDate>Wed, 13 Mar 2024 10:15:00 +0530</pubDate>
       
@@ -92,15 +92,6 @@
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://jinwooyoon.github.io/test-server.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jinwooyoon.github.io/test-server.github.io/publications/</guid>
-      <description>List of the featured published papers in peer-reviewed journals Dr. You&amp;rsquo;s research group members are in bold. First authors among Dr.</description>
-    </item>
-    
-    <item>
       <title>Education</title>
       <link>https://jinwooyoon.github.io/test-server.github.io/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -145,6 +136,15 @@ Goal of Education Train a globally competent medical data scientists.
       
       <guid>https://jinwooyoon.github.io/test-server.github.io/privacy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jinwooyoon.github.io/test-server.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinwooyoon.github.io/test-server.github.io/publications/</guid>
+      <description>List of the featured published papers in peer-reviewed journals Dr. You&amp;rsquo;s research group members are in bold. First authors among Dr.</description>
     </item>
     
     <item>
